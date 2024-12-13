@@ -1,10 +1,12 @@
 <table align="right">
 </table>
 
-![luk4x-repo-status](https://img.shields.io/badge/Status-Finished-lightgrey?style=for-the-badge&logo=headspace&logoColor=green&color=lightgrey)
-![luk4x-repo-license](https://img.shields.io/github/license/Luk4x/github-profile-background-photo?style=for-the-badge&logo=unlicense&logoColor=lightgrey)
 #
-<img align="center" alt="about" width="100%" src="https://user-images.githubusercontent.com/86276393/196287962-eabc8dc8-73f4-4abc-a86d-abb5bb8d3ceb.gif"/>
+<img align="center" alt="about" width="100%" src="https://i0.wp.com/26.media.tumblr.com/tumblr_ldp84kiltu1qa1xnko1_500.gif"/>
 
 
 #
+### 🔧 Технологии и инструменты:
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
+![JavaScript]()
