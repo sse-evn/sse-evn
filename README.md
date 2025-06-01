@@ -7,6 +7,8 @@ Currently, I’m focused on both game development and building SaaS products.
 🔗 [GitHub Profile](https://github.com/sse-evn)
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sse-evn&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sse-evn&layout=compact&theme=radical)
 
 ## 💼 Work Experience
 
