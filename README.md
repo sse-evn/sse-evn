@@ -20,7 +20,7 @@ Currently focused on **SaaS development** and **GameDev** projects.
 
 ## 🚀 Projects
 
-### [Unicenta POS Localization](https://github.com/sse-evn/unicenta-pos-localization)  
+### [Unicenta POS Localization](https://github.com/sse-evn/unicenta-pos-ru-.git)  
 Localization of Unicenta POS (GNU GPLv3) for the CIS market with Java and Maven.  
 *Tools:* Java, Maven, Localization, Open Source  
 ![Build Status](https://github.com/sse-evn/unicenta-pos-localization/workflows/CI/badge.svg) ![Coverage](https://img.shields.io/codecov/c/github/sse-evn/unicenta-pos-localization?style=flat)
