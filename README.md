@@ -30,11 +30,19 @@ Mobile program for robot (CIOT) SaaS with server and client, subdomain config fo
 *Tools:* Java, Android SDK, REST API, SaaS  
 ![Build Status](https://github.com/sse-evn/ciot-robot-saas/workflows/CI/badge.svg) ![Coverage](https://img.shields.io/codecov/c/github/sse-evn/ciot-robot-saas?style=flat)
 
-### [GameDev Experiments](https://github.com/sse-evn/gamedev-experiments)  
-Indie game projects and prototypes using Unity and Godot.  
-*Tools:* Unity, Godot, C#, GDScript  
+### GameDev Experiments
 
-![GameDev Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3R2ZmpqOXZsZ2pja2JnZ29haWZ5bWJuZ3Q0Mm5heG9hd2MzbWY3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yALcFbrKshfoY/giphy.gif)
+<table>
+  <tr>
+    <td width="160">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG53Mms4a3NramlyYXl5emNwZnprdnZsMXgxejY1NG1mdHQ2eWtwNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/aSSUI8IAVH5vHWjOw7/giphy.gif" alt="Studio Ghibli Animation" width="150"/>
+    </td>
+    <td>
+      Indie game projects and prototypes using Unity and Godot.<br>
+      <em>Tools:</em> Unity, Godot, C#, GDScript  
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -94,7 +102,7 @@ Indie game projects and prototypes using Unity and Godot.
 
 - GitHub: [github.com/sse-evn](https://github.com/sse-evn)  
 - Telegram: [@sse-evn](https://t.me/sse-evn)  
-- Email: `youremail@example.com` (замени на реальный)
+- Email: `evenrichman@gmail.com`
 
 ---
 
