@@ -1,9 +1,12 @@
 # Daily Activity Log
 
-**Total updates:** 47
+**Total updates:** 48
 
 ---
 
+## Update on 2025-06-02 18:30:06
+- Добавил логирование вызова функции.
+- Заменил макрос на `inline` функцию.
 ## Update on 2025-06-02 18:24:04
 ```c
 #include <stdio.h>
