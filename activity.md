@@ -1,9 +1,12 @@
 # Daily Activity Log
 
-**Total updates:** 23
+**Total updates:** 24
 
 ---
 
+## Update on 2025-06-02 16:06:05
+- Оптимизировал использование памяти.
+- Убрал утечку памяти.
 ## Update on 2025-06-02 16:00:02
 ```c
 char* reverse(char *str) {
