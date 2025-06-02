@@ -1,9 +1,12 @@
 # Daily Activity Log
 
-**Total updates:** 27
+**Total updates:** 28
 
 ---
 
+## Update on 2025-06-02 16:30:03
+- Убрал утечку памяти.
+- Переписал функцию на более читаемую.
 ## Update on 2025-06-02 16:24:06
 ```c
 #include <stdio.h>
