@@ -1,9 +1,18 @@
 # Daily Activity Log
 
-**Total updates:** 11
+**Total updates:** 12
 
 ---
 
+## Update on 2025-06-02 14:54:04
+```c
+#include <stdio.h>
+
+void greet() {
+    printf("Hello, World!
+");
+}
+```
 ## Update on 2025-06-02 14:48:01
 ```cpp
 int factorial(int n) {
