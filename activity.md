@@ -1,9 +1,15 @@
 # Daily Activity Log
 
-**Total updates:** 266
+**Total updates:** 267
 
 ---
 
+## Update on 2025-06-03 16:24:05
+```c
+int sum(int a, int b) {
+    return a + b;
+}
+```
 ## Update on 2025-06-03 16:18:03
 ```cpp
 int factorial(int n) {
