@@ -1,9 +1,15 @@
 # Daily Activity Log
 
-**Total updates:** 213
+**Total updates:** 214
 
 ---
 
+## Update on 2025-06-03 11:06:02
+```cpp
+int factorial(int n) {
+    return (n <= 1) ? 1 : n * factorial(n - 1);
+}
+```
 ## Update on 2025-06-03 11:00:03
 - Заменил макрос на `inline` функцию.
 - Убрал утечку памяти.
