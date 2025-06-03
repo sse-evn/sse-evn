@@ -1,9 +1,18 @@
 # Daily Activity Log
 
-**Total updates:** 307
+**Total updates:** 308
 
 ---
 
+## Update on 2025-06-03 20:30:02
+```c
+#include <stdio.h>
+
+void greet() {
+    printf("Hello, World!
+");
+}
+```
 ## Update on 2025-06-03 20:24:05
 ```cpp
 #include <iostream>
