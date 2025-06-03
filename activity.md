@@ -1,9 +1,11 @@
 # Daily Activity Log
 
-**Total updates:** 121
+**Total updates:** 122
 
 ---
 
+## Update on 2025-06-03 01:54:04
+- Добавил логирование вызова функции.
 ## Update on 2025-06-03 01:48:02
 ```cpp
 int factorial(int n) {
