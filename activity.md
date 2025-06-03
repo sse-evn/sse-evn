@@ -1,9 +1,12 @@
 # Daily Activity Log
 
-**Total updates:** 117
+**Total updates:** 118
 
 ---
 
+## Update on 2025-06-03 01:30:06
+- Убрал утечку памяти.
+- Заменил макрос на `inline` функцию.
 ## Update on 2025-06-03 01:24:04
 ```cpp
 int factorial(int n) {
