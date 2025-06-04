@@ -1,9 +1,11 @@
 # Daily Activity Log
 
-**Total updates:** 413
+**Total updates:** 414
 
 ---
 
+## Update on 2025-06-04 07:06:03
+- Добавил обработку ошибок.
 ## Update on 2025-06-04 07:00:06
 ```cpp
 int factorial(int n) {
