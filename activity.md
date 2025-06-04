@@ -1,9 +1,11 @@
 # Daily Activity Log
 
-**Total updates:** 443
+**Total updates:** 444
 
 ---
 
+## Update on 2025-06-04 10:06:02
+- Заменил макрос на `inline` функцию.
 ## Update on 2025-06-04 10:00:05
 ```cpp
 int factorial(int n) {
