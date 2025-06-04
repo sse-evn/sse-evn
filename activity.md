@@ -1,9 +1,11 @@
 # Daily Activity Log
 
-**Total updates:** 529
+**Total updates:** 530
 
 ---
 
+## Update on 2025-06-04 18:42:05
+- Оптимизировал использование памяти.
 ## Update on 2025-06-04 18:36:03
 ```cpp
 int factorial(int n) {
