@@ -1,9 +1,11 @@
 # Daily Activity Log
 
-**Total updates:** 414
+**Total updates:** 415
 
 ---
 
+## Update on 2025-06-04 07:12:05
+- Заменил макрос на `inline` функцию.
 ## Update on 2025-06-04 07:06:03
 - Добавил обработку ошибок.
 ## Update on 2025-06-04 07:00:06
