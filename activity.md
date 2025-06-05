@@ -1,9 +1,15 @@
 # Daily Activity Log
 
-**Total updates:** 646
+**Total updates:** 647
 
 ---
 
+## Update on 2025-06-05 06:24:06
+```cpp
+int factorial(int n) {
+    return (n <= 1) ? 1 : n * factorial(n - 1);
+}
+```
 ## Update on 2025-06-05 06:18:03
 ```c
 char* reverse(char *str) {
