@@ -1,9 +1,15 @@
 # Daily Activity Log
 
-**Total updates:** 693
+**Total updates:** 694
 
 ---
 
+## Update on 2025-06-05 12:12:01
+```cpp
+int factorial(int n) {
+    return (n <= 1) ? 1 : n * factorial(n - 1);
+}
+```
 ## Update on 2025-06-05 12:06:04
 - Заменил макрос на `inline` функцию.
 - Добавил логирование вызова функции.
