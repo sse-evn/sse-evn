@@ -1,9 +1,21 @@
 # Daily Activity Log
 
-**Total updates:** 801
+**Total updates:** 802
 
 ---
 
+## Update on 2025-06-05 23:00:02
+```c
+char* reverse(char *str) {
+    int len = strlen(str);
+    for(int i = 0; i < len / 2; i++) {
+        char tmp = str[i];
+        str[i] = str[len - i - 1];
+        str[len - i - 1] = tmp;
+    }
+    return str;
+}
+```
 ## Update on 2025-06-05 22:54:05
 - Переписал функцию на более читаемую.
 - Заменил макрос на `inline` функцию.
