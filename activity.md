@@ -1,9 +1,15 @@
 # Daily Activity Log
 
-**Total updates:** 621
+**Total updates:** 622
 
 ---
 
+## Update on 2025-06-05 03:54:02
+```cpp
+int factorial(int n) {
+    return (n <= 1) ? 1 : n * factorial(n - 1);
+}
+```
 ## Update on 2025-06-05 03:48:06
 - Переписал функцию на более читаемую.
 ## Update on 2025-06-05 03:42:03
