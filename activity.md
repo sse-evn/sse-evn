@@ -1,9 +1,15 @@
 # Daily Activity Log
 
-**Total updates:** 954
+**Total updates:** 955
 
 ---
 
+## Update on 2025-06-06 14:18:03
+```cpp
+int factorial(int n) {
+    return (n <= 1) ? 1 : n * factorial(n - 1);
+}
+```
 ## Update on 2025-06-06 14:12:06
 ```c
 int sum(int a, int b) {
