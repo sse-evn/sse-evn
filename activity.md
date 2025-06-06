@@ -1,9 +1,11 @@
 # Daily Activity Log
 
-**Total updates:** 1009
+**Total updates:** 1010
 
 ---
 
+## Update on 2025-06-06 19:48:06
+- Убрал утечку памяти.
 ## Update on 2025-06-06 19:42:04
 ```cpp
 int factorial(int n) {
