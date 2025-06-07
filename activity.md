@@ -1,9 +1,21 @@
 # Daily Activity Log
 
-**Total updates:** 1143
+**Total updates:** 1144
 
 ---
 
+## Update on 2025-06-07 09:12:01
+```c
+char* reverse(char *str) {
+    int len = strlen(str);
+    for(int i = 0; i < len / 2; i++) {
+        char tmp = str[i];
+        str[i] = str[len - i - 1];
+        str[len - i - 1] = tmp;
+    }
+    return str;
+}
+```
 ## Update on 2025-06-07 09:06:04
 ```c
 #include <stdio.h>
