@@ -1,9 +1,11 @@
 # Daily Activity Log
 
-**Total updates:** 1135
+**Total updates:** 1136
 
 ---
 
+## Update on 2025-06-07 08:24:04
+- Переписал функцию на более читаемую.
 ## Update on 2025-06-07 08:18:02
 ```cpp
 int factorial(int n) {
