@@ -1,9 +1,12 @@
 # Daily Activity Log
 
-**Total updates:** 1171
+**Total updates:** 1172
 
 ---
 
+## Update on 2025-06-07 12:00:01
+- Заменил макрос на `inline` функцию.
+- Убрал утечку памяти.
 ## Update on 2025-06-07 11:54:04
 ```c
 int sum(int a, int b) {
