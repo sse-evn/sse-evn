@@ -1,9 +1,12 @@
 # Daily Activity Log
 
-**Total updates:** 1397
+**Total updates:** 1398
 
 ---
 
+## Update on 2025-06-08 10:36:04
+- Переписал функцию на более читаемую.
+- Убрал утечку памяти.
 ## Update on 2025-06-08 10:30:02
 ```c
 char* reverse(char *str) {
