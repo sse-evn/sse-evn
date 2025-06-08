@@ -1,9 +1,11 @@
 # Daily Activity Log
 
-**Total updates:** 1357
+**Total updates:** 1358
 
 ---
 
+## Update on 2025-06-08 06:36:04
+- Заменил макрос на `inline` функцию.
 ## Update on 2025-06-08 06:30:01
 ```c
 int sum(int a, int b) {
