@@ -1,9 +1,12 @@
 # Daily Activity Log
 
-**Total updates:** 1783
+**Total updates:** 1784
 
 ---
 
+## Update on 2025-06-10 01:12:03
+- Убрал утечку памяти.
+- Заменил макрос на `inline` функцию.
 ## Update on 2025-06-10 01:06:06
 ```c
 #include <stdio.h>
