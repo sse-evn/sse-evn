@@ -1,9 +1,12 @@
 # Daily Activity Log
 
-**Total updates:** 1985
+**Total updates:** 1986
 
 ---
 
+## Update on 2025-06-16 13:18:03
+- Заменил макрос на `inline` функцию.
+- Переписал функцию на более читаемую.
 ## Update on 2025-06-16 13:12:06
 ```cpp
 #include <iostream>
