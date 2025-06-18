@@ -1,9 +1,12 @@
 # Daily Activity Log
 
-**Total updates:** 2329
+**Total updates:** 2330
 
 ---
 
+## Update on 2025-06-18 00:06:05
+- Переписал функцию на более читаемую.
+- Заменил макрос на `inline` функцию.
 ## Update on 2025-06-18 00:00:02
 ```c
 char* reverse(char *str) {
