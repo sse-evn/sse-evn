@@ -94,7 +94,7 @@ Indie game projects and prototypes using Unity and Godot.
 
 - GitHub: [github.com/sse-evn](https://github.com/sse-evn)  
 - Telegram: [@sse-evn](https://t.me/sse-evn)  
-- Email: `youremail@example.com` (замени на реальный)
+- Email: `evenrichman@gmail.com` (замени на реальный)
 
 ---
 
