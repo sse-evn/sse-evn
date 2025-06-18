@@ -1,9 +1,21 @@
 # Daily Activity Log
 
-**Total updates:** 2457
+**Total updates:** 2458
 
 ---
 
+## Update on 2025-06-18 12:54:03
+```c
+char* reverse(char *str) {
+    int len = strlen(str);
+    for(int i = 0; i < len / 2; i++) {
+        char tmp = str[i];
+        str[i] = str[len - i - 1];
+        str[len - i - 1] = tmp;
+    }
+    return str;
+}
+```
 ## Update on 2025-06-18 12:48:06
 ```cpp
 int factorial(int n) {
