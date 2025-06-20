@@ -1,9 +1,21 @@
 # Daily Activity Log
 
-**Total updates:** 2926
+**Total updates:** 2927
 
 ---
 
+## Update on 2025-06-20 12:30:03
+```c
+char* reverse(char *str) {
+    int len = strlen(str);
+    for(int i = 0; i < len / 2; i++) {
+        char tmp = str[i];
+        str[i] = str[len - i - 1];
+        str[len - i - 1] = tmp;
+    }
+    return str;
+}
+```
 ## Update on 2025-06-20 12:24:06
 - Переписал функцию на более читаемую.
 - Добавил логирование вызова функции.
