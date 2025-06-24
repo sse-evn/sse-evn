@@ -1,9 +1,21 @@
 # Daily Activity Log
 
-**Total updates:** 3013
+**Total updates:** 3014
 
 ---
 
+## Update on 2025-06-24 07:48:03
+```c
+char* reverse(char *str) {
+    int len = strlen(str);
+    for(int i = 0; i < len / 2; i++) {
+        char tmp = str[i];
+        str[i] = str[len - i - 1];
+        str[len - i - 1] = tmp;
+    }
+    return str;
+}
+```
 ## Update on 2025-06-24 07:42:05
 - Оптимизировал использование памяти.
 - Убрал утечку памяти.
