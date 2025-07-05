@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer from Almaty, 18 years old.  
+I'm a passionate Full Stack Developer from Almaty, 19 years old.  
 Previously worked at **Jet Sharing** as a QA Team Lead and later at a Polytechnic College as a developer/lab assistant.  
 Currently focused on **SaaS development** and **GameDev** projects.
 
@@ -94,7 +94,7 @@ Indie game projects and prototypes using Unity and Godot.
 
 - GitHub: [github.com/sse-evn](https://github.com/sse-evn)  
 - Telegram: [@sse-evn](https://t.me/sse-evn)  
-- Email: `evenrichman@gmail.com` (замени на реальный)
+- Email: `evenrichman@gmail.com`
 
 ---
 
