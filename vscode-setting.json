@@ -1,0 +1,146 @@
+{
+    // 🔹 General editor settings
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.minimap.enabled": false,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.wordWrap": "on",
+    "editor.snippetSuggestions": "top",
+    "editor.inlineSuggest.enabled": true,
+    "editor.rulers": [80, 100, 120],
+    "editor.selectionHighlight": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "editor.smoothScrolling": true,
+    "editor.formatOnPaste": true,
+    "editor.hover.delay": 200,
+    "editor.guides.bracketPairs": "active",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.quickSuggestionsDelay": 50,
+    "editor.parameterHints.enabled": true,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "on",
+
+    "files.autoSave": "afterDelay",
+    "files.associations": {
+        "*.blade.php": "blade"
+    },
+    "explorer.confirmDelete": false,
+    "breadcrumbs.enabled": true,
+    "explorer.compactFolders": false,
+
+    "workbench.colorTheme": "Bearded Theme Aquarelle Lilac",
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.revealIfOpen": true,
+    "workbench.tree.indent": 20,
+    "workbench.statusBar.visible": true,
+    "window.zoomLevel": 0,
+    "workbench.productIconTheme": "macos-modern",
+
+    // 🔹 PHP / Laravel
+    "php.validate.executablePath": "/usr/bin/php",
+    "intelephense.environment.phpVersion": "8.4.0",
+    "intelephense.files.maxSize": 5000000,
+    "intelephense.diagnostics.enable": true,
+    "intelephense.stubs": ["laravel"],
+    "php.suggest.basic": false,
+    "blade.format.enable": true,
+    "blade.format.wrapLineLength": 120,
+    "[php]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+        "editor.formatOnSave": true
+    },
+    "[blade]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "editor.formatOnSave": true
+    },
+
+    // 🔹 Golang
+    "[go]": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true
+    },
+    "go.useLanguageServer": true,
+    "go.formatTool": "gofmt",
+    "go.lintTool": "golangci-lint",
+    "go.lintOnSave": "file",
+    "go.testOnSave": true,
+    "go.coverageDecorator": { "type": "gutter" },
+    "go.useGoProxyToCheckForToolUpdates": true,
+    "go.testFlags": ["-v"],
+    "go.enableCodeLens": { "references": true, "runtest": true },
+    "gopls": {
+        "ui.completion.usePlaceholders": true,
+        "analyses.unusedparams": true,
+        "staticcheck": true
+    },
+
+    // 🔹 C / C++
+    "[cpp]": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true
+    },
+    "[c]": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true
+    },
+    "C_Cpp.clang_format_fallbackStyle": "Google",   // clang-format style
+    "C_Cpp.intelliSenseEngine": "Default",
+
+    // 🔹 Dart / Flutter
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true
+    },
+    "dart.lineLength": 80,
+    "dart.enableSdkFormatter": true,
+
+    // 🔹 Lua
+    "[lua]": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true
+    },
+
+    // 🔹 Terminal
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.profiles.linux": {
+        "bash": { "path": "bash" }
+    },
+    "terminal.integrated.scrollback": 10000,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "Fira Code, monospace",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "block",
+    "terminal.integrated.fontWeight": "500",
+
+    // 🔹 Git
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "git.enableCommitSigning": true,
+    "gitlens.currentLine.enabled": true,
+    "gitlens.hovers.enabled": true,
+    "git.autofetchPeriod": 60,
+
+    // 🔹 Extensions / Live Server
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.wait": 100,
+
+    // 🔹 Unicode and highlighting
+    "editor.unicodeHighlight.includeComments": true
+}
